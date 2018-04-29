@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec mpv http://s4.mexside.net:8090/;stream.mp3

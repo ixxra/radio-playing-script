@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=So Good 92.1 Radio
+Name[es]=So Good 92.1 Radio
+Exec=sogood-mid
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=AudioVideo;Audio;Player;
