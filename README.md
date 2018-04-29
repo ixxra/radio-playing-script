@@ -2,16 +2,16 @@
 
 This is a trivial script to play music of a radio station from Merida, Mexico.
 
-** Requirements
+**Requirements**
 
 * mpv
 
 
-** Usage
+**Usage**
 
 simply copy `sogood-mid` somewhere in your `PATH`.
 
-** Optional
+**Optional**
 
 copy sogood-mid.desktop to `~/.local/share/applications` to install the desktop entry locally.
 
